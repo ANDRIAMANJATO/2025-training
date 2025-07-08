@@ -15,5 +15,5 @@ int main (void){
  ft_fetra();
  ft_space();
  ft_alaligne();
-return 0 ;
+return (0) ;
 }
